@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\17cf80c9bcc70d6e42568a646a8e2eb7\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\5af3675663ee80459ccf909a4eb590a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\c435e72dd0e5456954cb4337e8ac078f\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a979062f859fdcb6de809261adce88c\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Omkar\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\1f1f944f3f98b3bf629184a63eef7692\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\72de0627c0c71c2c0ac6e20b5aa28ba3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+	xmlns:app
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:3:57-108
+	android:versionName
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:6:7-32
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:3:7-53
+	xmlns:android
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:5:7-30
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:8:5-62
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:8:19-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:12:5-37:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Omkar\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Omkar\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:14:42-85
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:14:9-41
+	tools:targetApi
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:16:3-22
+	android:icon
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.ftdi.j2xx.UARTterminal.J2xxHyperTerm
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:20:13-45
+	android:launchMode
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:23:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:22:4-27
+	android:configChanges
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:19:13-74
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:18:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:27:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:29:13-31:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:30:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:33:13-35:57
+	android:resource
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:35:17-54
+	android:name
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml:34:17-79
+uses-sdk
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Omkar\.gradle\caches\transforms-3\f5951a4f607dc653401bac0adaefbb08\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\abd986d958258d7e8503cbe4ed7e75cb\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\17cf80c9bcc70d6e42568a646a8e2eb7\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\17cf80c9bcc70d6e42568a646a8e2eb7\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\5af3675663ee80459ccf909a4eb590a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\5af3675663ee80459ccf909a4eb590a2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\c435e72dd0e5456954cb4337e8ac078f\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\c435e72dd0e5456954cb4337e8ac078f\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a979062f859fdcb6de809261adce88c\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a979062f859fdcb6de809261adce88c\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Omkar\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Omkar\.gradle\caches\transforms-3\d88cacb3ad7019752e911e94c62f5798\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\1f1f944f3f98b3bf629184a63eef7692\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\1f1f944f3f98b3bf629184a63eef7692\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\72de0627c0c71c2c0ac6e20b5aa28ba3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\72de0627c0c71c2c0ac6e20b5aa28ba3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Omkar\.gradle\caches\transforms-3\626641b499ffdcb66d218627adc23050\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\7a6baf161ab5d6c31b6f6f5d94e198cf\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Omkar\Downloads\FTDI Source Code UART\J2xx_HyperTerm_1.3\Android_Studio\J2xx_HyperTerm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Omkar\.gradle\caches\transforms-3\297743ef38a765569e85995e5d62a64b\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\Omkar\.gradle\caches\transforms-3\3d4ddd83a98542e79762416edd063a7f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Omkar\.gradle\caches\transforms-3\c710c0fd3e02ffb98bd063193a817109\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

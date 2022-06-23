@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion "31.0.0"
+
+    defaultConfig {
+        applicationId "com.ftdi.j2xx.UARTterminal"
+        minSdkVersion 26
+        targetSdkVersion 31
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+    }
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    // Write pdf library
+    implementation 'com.itextpdf:itextg:5.5.10'
+    implementation files('libs/d2xx.jar')
+    // Required to prevent crash on Android 12 and above
+    implementation 'androidx.work:work-runtime:2.7.1'
+}

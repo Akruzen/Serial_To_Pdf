@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_button_pattern.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-hdpi\\button_pattern.xml"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\xml_device_filter.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_button_pattern_2.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-hdpi\\button_pattern_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_scan.jpg.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-ldpi\\scan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\layout_file_name_dialog.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\layout\\file_name_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\build\\intermediates\\merged_res\\debug\\layout_my_spinner_textview.xml.flat",
+        "source": "C:\\Users\\Omkar\\Downloads\\FTDI Source Code UART\\J2xx_HyperTerm_1.3\\Android_Studio\\J2xx_HyperTerm\\app\\src\\main\\res\\layout\\my_spinner_textview.xml"
+    }
+]
