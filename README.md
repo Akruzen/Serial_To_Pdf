@@ -1,4 +1,4 @@
-### Serial_To_Pdf
+# Serial_To_Pdf
 Converts serial communication data received  to pdf. Based on serial communication driver provided by FTDI.
 
 ## Details
