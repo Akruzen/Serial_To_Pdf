@@ -1158,6 +1158,7 @@ public class J2xxHyperTerm extends Activity
 
         case MENU_CLEAN_SCREEN:
         	readText.setText("");
+			masterDataString = "";
         	contentCharSequence = readText.getText();
             break;
 

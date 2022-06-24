@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/J2xx_HyperTerm.iml" filepath="$PROJECT_DIR$/.idea/modules/J2xx_HyperTerm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/J2xx_HyperTerm.app.unitTest.iml" />
     </modules>
   </component>
 </project>
